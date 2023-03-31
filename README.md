@@ -3,11 +3,11 @@
 <br>I am a developer with experience in Python, blockchain, and data science. <br>I also have strong problem-solving skills with data structures and algorithms in C++. <br>I am passionate about creating innovative solutions that solve real-world problems and improve people's lives.<br><br>
 ## Projects: 
 <br>Here are some of my notable projects that showcase my skills and expertise:<br><br>
-## Blockchain-based Crowdfunding Platform: 
+### Blockchain-based Crowdfunding Platform: 
 <br>Developed a decentralized crowdfunding platform using blockchain technology,<br>allowing individuals and organizations to raise funds for their projects without the need for intermediaries.<br><br>
-##Stock Prices Prediction : 
+### Stock Prices Prediction : 
 <br>Built a predictive analytics model that uses machine learning algorithms <br>to forecast stock prices with high accuracy, enabling investors to make informed decisions.<br><br>
-## DSA with C++ Algorithmic Problem Solving: 
+### DSA with C++ Algorithmic Problem Solving: 
 <br>Solved various algorithmic problems in C++, <br>demonstrating my strong problem-solving skills with data structures and algorithms.<br><br>
 
 
@@ -31,4 +31,7 @@
 [![](https://visitcount.itsvg.in/api?id=loliet-L&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-## Contact<br>Feel free to reach out to me through my email [viveklone1000@gmail.com] or my LinkedIn profile .<br><br>#Thank you for visiting my GitHub profile. <br>#Let's create something amazing together!<br><br><br><br>
+## Contact<br>
+### Feel free to reach out to me through my email [viveklone1000@gmail.com] or my LinkedIn profile .<br><br>
+### Thank you for visiting my GitHub profile. <br>
+### Let's create something amazing together!<br><br><br><br>
