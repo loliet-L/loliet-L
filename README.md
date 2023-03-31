@@ -29,6 +29,6 @@
 
 
 ## Contact<br>
-### Feel free to reach out to me through my email [viveklone1000@gmail.com] or my LinkedIn profile. [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-lone-859807201) <br><br>
+### Feel free to reach out to me through my email [viveklone1000@gmail.com] or my LinkedIn profile.[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-lone-859807201) <br><br>
 ### Thank you for visiting my GitHub profile. <br>
 ### Let's create something amazing together!<br><br><br><br>
