@@ -1,9 +1,14 @@
 # 💫 About Me:
-Hey I'm Vivek Lone Thankyou for checking my Profile !<br>I am a developer with experience in Python, blockchain, and data science. <br>I also have strong problem-solving skills with data structures and algorithms in C++. <br>I am passionate about creating innovative solutions that solve real-world problems and improve people's lives.<br><br>
-## Projects: <br>Here are some of my notable projects that showcase my skills and expertise:<br><br>
-## Blockchain-based Crowdfunding Platform: <br>Developed a decentralized crowdfunding platform using blockchain technology,<br>allowing individuals and organizations to raise funds for their projects without the need for intermediaries.<br><br>
-##Stock Prices Prediction : <br>Built a predictive analytics model that uses machine learning algorithms <br>to forecast stock prices with high accuracy, enabling investors to make informed decisions.<br><br>
-## DSA with C++ Algorithmic Problem Solving: <br>Solved various algorithmic problems in C++, <br>demonstrating my strong problem-solving skills with data structures and algorithms.<br><br>
+### Hey I'm Vivek Lone Thankyou for checking my Profile !
+<br>I am a developer with experience in Python, blockchain, and data science. <br>I also have strong problem-solving skills with data structures and algorithms in C++. <br>I am passionate about creating innovative solutions that solve real-world problems and improve people's lives.<br><br>
+## Projects: 
+<br>Here are some of my notable projects that showcase my skills and expertise:<br><br>
+## Blockchain-based Crowdfunding Platform: 
+<br>Developed a decentralized crowdfunding platform using blockchain technology,<br>allowing individuals and organizations to raise funds for their projects without the need for intermediaries.<br><br>
+##Stock Prices Prediction : 
+<br>Built a predictive analytics model that uses machine learning algorithms <br>to forecast stock prices with high accuracy, enabling investors to make informed decisions.<br><br>
+## DSA with C++ Algorithmic Problem Solving: 
+<br>Solved various algorithmic problems in C++, <br>demonstrating my strong problem-solving skills with data structures and algorithms.<br><br>
 
 
 ## 🌐 Socials:
